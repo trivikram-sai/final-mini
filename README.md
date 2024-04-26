@@ -1,4 +1,4 @@
-Documentation
+#Documentation
 The first step while creating this project was to finalize a design and components of our project. To do this we used internet which helped us a lot in finalizing our design.
 Next, we created the home page of our website which included a brief idea about what our bakery is about. We also used google sheets API to collect the responses for our contact form.
 Next, we created the sign up and login page which is essential to do before placing orders. We linked this with our home.
